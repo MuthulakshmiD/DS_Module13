@@ -38,8 +38,8 @@ return stack[top--];
 
 
 ## Output:
+<img width="558" height="265" alt="image" src="https://github.com/user-attachments/assets/ff216f66-1ea6-4bd5-a7fa-9550d79990da" />
 
-![image](https://github.com/user-attachments/assets/d90b9b3c-2226-4d66-a8e9-a85f8f009798)
 
 
 ## Result:
